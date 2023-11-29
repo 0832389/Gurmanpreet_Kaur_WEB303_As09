@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Sukhvir Sekhon",
+        "age": "26",
+        "occupation": "Mechanic",
+        "city": "Windsor",
+        "project": "1-7",
+        "hired": "1997-09-20"
+    },
+    {
+        "name": "Pawan Sekhon",
+        "age": "23",
+        "occupation": "Web developer",
+        "city": "LaSalle",
+        "project": "7-13",
+        "hired": "2000-08-22"
+    },
+    {
+        "name": "Pardeep Gill",
+        "age": "21",
+        "occupation": "Student",
+        "city": "Toronto",
+        "project": "4-8",
+        "hired": "2002-05-15"
+    },
+    {
+        "name": "Jasvir Boparai",
+        "age": "47",
+        "occupation": "Mechanic",
+        "city": "London",
+        "project": "13-17",
+        "hired": "1974-08-4"
+    },
+    {
+        "name": "Gurdeep Gill",
+        "age": "48",
+        "occupation": "PRofessor",
+        "city": "Quebec",
+        "project": "7-10",
+        "hired": "1978-5-14"
+    }
+    
+]

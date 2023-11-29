@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(230, 173, 222);
+}
+
+h1 {
+    text-align: center;
+}
+
+input {
+    margin-left: 10px;
+    border: 2px solid rgb(255, 132, 0);
+    width: 20%;
+    padding: 10px;
+
+}
+
+table {
+    margin: 20px auto;
+    border: 5px solid rgb(150, 40, 124);
+}
+
+td {
+    width: 10%;
+    font-size: 20px;
+}
+
+thead th a {
+    font-weight: bold;
+    font-size: 20px;
+    color: blue;
+    cursor: pointer;
+}
+
+table, tr, th, td {
+    border: 5px solid rgb(97, 14, 14);
+    border-collapse: collapse ;
+}
+
+a.ascending::after {
+    content: "\25B2";
+}
+
+a.descending::after {
+    content: "\25BC";
+}
+
+a.no-sort::after {
+    content: "";
+}
