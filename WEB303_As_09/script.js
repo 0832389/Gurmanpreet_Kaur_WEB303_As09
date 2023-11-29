@@ -21,8 +21,8 @@ $headingRow.append($('<th/>').html('<a data-sort="name">Name</a>'));
 $headingRow.append($('<th/>').html('<a data-sort="name">Age</a>'));
 $headingRow.append($('<th/>').html('<a data-sort="name">Occupation</a>'));
 $headingRow.append($('<th/>').html('<a data-sort="name">City</a>'));
-$headingRow.append($('<th/>').html('<a data-sort="duration">project</a>'));
-$headingRow.append($('<th/>').html('<a data-sort="data">hired</a>'));
+$headingRow.append($('<th/>').html('<a data-sort="duration">Project</a>'));
+$headingRow.append($('<th/>').html('<a data-sort="data">Passion</a>'));
 // create an input box before table
 
 
@@ -49,7 +49,7 @@ $.ajax({
             $row.append($('<td> </td>').text(value.occupation));
             $row.append($('<td></td>').text(value.city));
             $row.append($('<td></td>').text(value.project));
-            $row.append($('<td></td>').text(value.hired));
+            $row.append($('<td></td>').text(value.passion));
 
             // add rows to table 
             $('tbody').append($row);

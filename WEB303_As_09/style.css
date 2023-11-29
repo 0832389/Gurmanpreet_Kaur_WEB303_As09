@@ -1,22 +1,24 @@
 body {
-    background-color: rgb(230, 173, 222);
+    background-color: skyblue;
 }
 
 h1 {
     text-align: center;
+    font-family: cursive;
 }
 
 input {
     margin-left: 10px;
-    border: 2px solid rgb(255, 132, 0);
+    border: 2px solid black;
     width: 20%;
     padding: 10px;
+    
 
 }
 
 table {
     margin: 20px auto;
-    border: 5px solid rgb(150, 40, 124);
+    border: 5px solid black;
 }
 
 td {
@@ -27,12 +29,12 @@ td {
 thead th a {
     font-weight: bold;
     font-size: 20px;
-    color: blue;
+    color: black;
     cursor: pointer;
 }
 
 table, tr, th, td {
-    border: 5px solid rgb(97, 14, 14);
+    border: 5px solid black;
     border-collapse: collapse ;
 }
 

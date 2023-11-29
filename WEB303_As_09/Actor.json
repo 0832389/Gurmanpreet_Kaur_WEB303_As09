@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Gurmanpreet",
+        "age": "20",
+        "occupation": "Student",
+        "city": "Windsor",
+        "project": "1-10",
+        "passion": "Music"
+    },
+    {
+        "name": "Bakhtaur Singh",
+        "age": "23",
+        "occupation": "Teacher",
+        "city": "Malerkotla",
+        "project": "13-15",
+        "passion": "Farming"
+    },
+    {
+        "name": "Jaskaran Singh",
+        "age": "24",
+        "occupation": "Student",
+        "city": "Ludhiana",
+        "project": "5-8",
+        "passion": "Singing"
+    },
+    {
+        "name": "Jashanpreet",
+        "age": "25",
+        "occupation": "Web designer",
+        "city": "Winnipeg",
+        "project": "3-6",
+        "passion": "painting"
+    },
+    {
+        "name": "Arshdeep Kaur",
+        "age": "24",
+        "occupation": "Customer Service Representstive",
+        "city": "London",
+        "project": "7-10",
+        "passion": "Shopping"
+    }
+    
+]
