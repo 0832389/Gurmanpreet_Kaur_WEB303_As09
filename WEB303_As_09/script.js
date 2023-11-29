@@ -23,7 +23,7 @@ $headingRow.append($('<th/>').html('<a data-sort="name">Occupation</a>'));
 $headingRow.append($('<th/>').html('<a data-sort="name">City</a>'));
 $headingRow.append($('<th/>').html('<a data-sort="duration">Project</a>'));
 $headingRow.append($('<th/>').html('<a data-sort="data">Passion</a>'));
-// create an input box before table
+
 
 
 
@@ -34,7 +34,7 @@ $headingRow.append($('<th/>').html('<a data-sort="data">Passion</a>'));
 
 $.ajax({
     type: "get",
-    url: "Actor.json",
+    url: "index.json",
     error: function(){
         $('.tbl').empty().append('<h1> Content can not be retrieved</h1>');
     },
