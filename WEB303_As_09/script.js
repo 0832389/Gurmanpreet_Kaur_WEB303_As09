@@ -6,7 +6,7 @@ $('body').append($table);
 // add a title for the table before table 
 
 $('table').before('<h1/>');
-$('h1').text('Sorting Actors Tables');
+$('h1').text('Sorting Employees Table');
 
 // add a thead and tbody on the table  
 $('table').append('<thead/>');
